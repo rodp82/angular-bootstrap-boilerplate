@@ -1,4 +1,8 @@
-# Ng5Bs4Skeleton
+# Angular5 & Twitter Bootstrap 4 Skeleton
+
+The purpose of this repository is to have a basic starting point for getting an angular application up and running quicker
+
+It includes 2 modules, each with 2 components and a "home" compnonent
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
