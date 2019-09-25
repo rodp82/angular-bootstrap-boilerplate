@@ -4,7 +4,7 @@ The purpose of this repository is to have a basic starting point for getting an 
 
 It includes 2 modules, each with 2 components and a "home" compnonent
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
 
